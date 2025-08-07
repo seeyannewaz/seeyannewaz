@@ -8,7 +8,7 @@ C, C++, C#, Java, Python, JavaScript, TypeScript, SQL, HTML/CSS, Dart, PHP, Asse
 
 **Frameworks & Tools:**
 
-Flask, React, Next.js, Flutter, Tailwind CSS, Chakra UI, SQLAlchemy, Framer Motion, Git/GitHub, Firebase, Linux, Postman, Visual Studio, IntelliJ, Jupyter, Google Colab 
+Flask, React, Next.js, Node.js, Flutter, Tailwind CSS, Chakra UI, SQLAlchemy, Framer Motion, Git/GitHub, Firebase, Linux, Postman, Visual Studio, IntelliJ, Jupyter, Google Colab 
 
 **Databases:**
 
