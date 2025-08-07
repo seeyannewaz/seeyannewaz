@@ -1,6 +1,6 @@
 # 👋 Hi there, I am Seeyan Newaz
 
-I'm a rising senior studying Computer Science at **The University of Texas at Dallas**. I am passionate about full-stack development, machine learning, and building impactful software solutions.
+I am a rising senior studying Computer Science at **The University of Texas at Dallas**. I am passionate about full-stack development, machine learning, and building impactful software solutions.
 
 **Languages:**  
 C, C++, C#, Java, Python, JavaScript, TypeScript, SQL, HTML/CSS, Dart, PHP, Assembly  
