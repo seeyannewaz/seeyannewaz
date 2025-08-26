@@ -16,6 +16,7 @@ Oracle, MySQL, Google Firebase, SQLite
 
 ## 🔗 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-seeyannewaz.com-9cf?logo=vercel)](https://seeyannewaz.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seeyan_Newaz-blue?logo=linkedin)](https://www.linkedin.com/in/seeyan-newaz)  
 📫 Email: seeyannewaz@gmail.com  
 
