@@ -1,18 +1,22 @@
 # 👋 Hi there, I am Seeyan Newaz
 
-I am a rising senior studying Computer Science at **The University of Texas at Dallas**. I am passionate about full-stack development, machine learning, and building impactful software solutions.
+I am a senior studying Computer Science at **The University of Texas at Dallas**. I am passionate about full-stack development, machine learning, and building impactful software solutions.
 
 **Languages:**
 
-C, C++, C#, Java, Python, JavaScript, TypeScript, SQL, HTML/CSS, Dart, PHP, Assembly  
+ Python, Java, C/C++, C#, JavaScript/TypeScript, SQL, Assembly, Dart, Lisp, Prolog, VHDL  
 
-**Frameworks & Tools:**
+**Frameworks/Libraries:**
 
-Flask, React, Next.js, Node.js, Flutter, Tailwind CSS, Chakra UI, SQLAlchemy, Framer Motion, Git/GitHub, Firebase, Linux, Postman, Visual Studio, IntelliJ, Jupyter, Google Colab 
+React.js, Next.js, Node.js, Angular, Spring Boot, .NET, Flask, Tailwind CSS, SQLAlchemy, Flutter
 
-**Databases:**
+**Developer Tools:**
 
-Oracle, MySQL, Google Firebase, SQLite
+ Git, Docker, Kubernetes, Linux, Postman, JIRA, Hugging Face, OpenAI API
+
+**Cloud & Databases:**
+
+Cloud & Databases: AWS, Microsoft Azure, PostgreSQL, MySQL, Firebase, Oracle
 
 ## 🔗 Connect with Me
 
@@ -20,4 +24,4 @@ Oracle, MySQL, Google Firebase, SQLite
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seeyan_Newaz-blue?logo=linkedin)](https://www.linkedin.com/in/seeyan-newaz)  
 📫 Email: seeyannewaz@gmail.com  
 
-*“Teaching others and building tools that matter — that’s what drives me.”*
+*“Learning, teaching and building tools that matter- that’s what drives me.”*
